@@ -10,8 +10,8 @@ public class Jdbc {
 
     private static final String DRIVER = "com.microsoft.sqlserver.jdbc.SQLServerDriver";
     private static final String DB_URL = "jdbc:sqlserver://localhost;database=phanmembanhang;encrypt=true;trustServerCertificate=true;";
-    private static final String USERNAME = "sa";
-    private static final String PASSWORD = "123456";
+    private static final String USERNAME = "DuAn1";
+    private static final String PASSWORD = "123";
 
     private static Connection connection;
 

@@ -8,6 +8,6 @@ package DAOImpl;
  *
  * @author Shreck
  */
-public class CustomerImpl {
+public class CustomerDAO {
     
 }

@@ -9,7 +9,7 @@ package Controller;
  * @author Shreck
  */
 public interface NaviController {
-      void moveFirst();
+    void moveFirst();
     void movePrevious();
     void moveNext();
     void moveLast();
