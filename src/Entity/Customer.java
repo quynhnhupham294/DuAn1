@@ -17,6 +17,7 @@ public class Customer {
     private String description;
 
     public Customer() {
+        
     }
 
     
