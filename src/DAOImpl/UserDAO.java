@@ -4,21 +4,13 @@
  */
 package DAOImpl;
 
-import DAO.DAO;
-import Entity.User;
-import utils.Jdbc;
-import java.util.List;
-import java.sql.ResultSet;
-import java.sql.SQLException;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.logging.Level;
-import java.util.logging.Logger;
+
 
 /**
  *
- * @author Shreck
+ * @author Quang
  */
-public class UserDAO implements DAO<UserDAO, String>{
+public class UserDAO {
+
     
 }
