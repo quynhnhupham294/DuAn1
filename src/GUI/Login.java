@@ -1,10 +1,10 @@
 package GUI;
 
 import javax.swing.JOptionPane;
-import utils.JdbcHelper;
+
 
 public class Login extends javax.swing.JFrame {
-    JdbcHelper jdbc = new JdbcHelper();
+   
 
     public Login() {
         initComponents();

@@ -1,11 +1,11 @@
 package Testting;
 
 import java.sql.Connection;
-import utils.JdbcHelper;
+import utils.Jdbc;
 
 public class TestConnectToSQLServer {
     public static void main(String[] args) {
-        JdbcHelper db = new JdbcHelper();
-        Connection connect = db.getDBConnect();
+        Jdbc db = new Jdbc();
+//        Connection connect = db.getDBConnect();
     }
 }
